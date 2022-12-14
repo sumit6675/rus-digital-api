@@ -1,75 +1,1488 @@
 {
-    "televisions": [
+  "mobilesandtablets": [
+    {
+      "name": "Oppo Pad Air 26.31cm (10.36 inch) Tablet with 4 GB RAM, 128 GB Internal Storage, Black",
+      "img": "https://www.reliancedigital.in/medias/Oppo-PadAir-Tablet-493177063-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMDE3OHxpbWFnZS9qcGVnfGltYWdlcy9oMmMvaDNlLzk4NjQ0NDk3MjAzNTAuanBnfGI2NDU0NjE5NWI3NTE0M2Q5NjgyNzg5ZTg5MzhiOTk3ZmZlY2MwNjBkNDhkM2E5Zjc5MThmMDQ1NmVlNjk3ZTA",
+      "price": "19,999.00",
+      "mrp": "34,999.00"
+    },
+    {
+      "name": "Nokia T20 26.42 cm (10.4 inch) LTE Tablet 4 GB RAM, 64 GB, Deep Ocean",
+      "img": "https://www.reliancedigital.in/medias/Nokia-NOKIA-T20-TA-1397-Tablet-492575359-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNTA1MHxpbWFnZS9qcGVnfGltYWdlcy9oMmQvaDMwLzk4MDkyOTc1MDYzMzQuanBnfDJjNWVlMjE2NjgyYzQwOGFjZjJkZmE2ODk3Y2ViNmNhYjA0MzYxMjg3ODk2MWE5NzNhMWI5NTE3MjFlZTdjMDU",
+      "price": "17,649.00",
+      "mrp": "21,999.00"
+    },
+    {
+      "name": "Nokia T20 26.42 cm (10.4 inch) Wi-Fi Tablet 3 GB RAM, 32 GB, Deep Ocean",
+      "img": "https://www.reliancedigital.in/medias/Nokia-NOKIA-T20-TA-1392-Tablet-492575357-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNTA1MHxpbWFnZS9qcGVnfGltYWdlcy9oZmQvaGQyLzk4MDkyOTcxNzg2NTQuanBnfDg0YWU2MzY0NzQzMGMyNjIxNWFlZTE5YzBjY2VhMjg4MDE0YjRmN2NjOWQ3YTgzODQxMzY5Y2ViNGExMjUzN2U",
+      "price": "14,649.00",
+      "mrp": "17,999.00"
+    },
+    {
+      "name": "Nokia T20 26.42 cm (10.4 inch) Wi-Fi Tablet 4 GB RAM, 64 GB, Deep Ocean",
+      "img": "https://www.reliancedigital.in/medias/Nokia-NOKIA-T20-TA-1392-Tablet-492575358-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNTA1MHxpbWFnZS9qcGVnfGltYWdlcy9oNjYvaDcyLzk4MDkyOTgxNjE2OTQuanBnfDhlZWQzMGEzZDcyMDllYjcwM2FiMTgzMDgwNGEwYjAwYmNmMDg1MTM1ZTA4NzE2Y2E3YzE1ZDQ4ZWM3NzU1YTQ",
+      "price": "15,649.00",
+      "mrp": "19,499.00"
+    },
+    {
+      "name": "Realme Pad Mini 22.09 cm (8.7 inch) LTE Tablet 4 GB RAM, 64 GB, Grey RMP2105",
+      "img": "https://www.reliancedigital.in/medias/Realme-RMP2105-Regular-Tablets-492850319-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2Mzc4NHxpbWFnZS9qcGVnfGltYWdlcy9oMmUvaGIwLzk4NDg5MDU0MzMxMTguanBnfDllM2E2MjY0ZjcyNGRlYTk2MTc5ODk5MDA3NzBlYmY3NGUzMDEyNWE0Mjc2ZmI1ZTdjOTEyYjBiZmRhMWUzZTg",
+      "price": "14,999.00",
+      "mrp": "23,999.00"
+    },
+    {
+      "name": "Realme Pad Mini 22.09 cm (8.7 inch) LTE Tablet 4 GB RAM, 64 GB, Blue RMP2105",
+      "img": "https://www.reliancedigital.in/medias/Realme-RMP2105-Regular-Tablets-492850320-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2MzEyNXxpbWFnZS9qcGVnfGltYWdlcy9oYzQvaGZmLzk4NDg5MDUxMDU0MzguanBnfDQ1NDc4YWI0MDJkM2QxOWI0N2UwNDliZmI0OWZjYTcxYTJhZWFjYzljZGU5YjU4NTBhMGQ3NGJjMTdmMTU1ZTc",
+      "price": "14,999.00",
+      "mrp": "23,999.00"
+    },
+    {
+      "name": "Realme Pad Mini 22.09 cm (8.7 inch) LTE Tablet 3 GB RAM, 32 GB, Blue RMP2105",
+      "img": "https://www.reliancedigital.in/medias/Realme-RMP2105-Regular-Tablets-492850321-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2MzQzNXxpbWFnZS9qcGVnfGltYWdlcy9oZjUvaGE5Lzk4NDg5MDU3NjA3OTguanBnfDE5M2ZiYzdjNTY5MGQ3Njg4YWZjNjE0ZWMxZjg3MDZiNzY0YTBlMTNiYjA1ODNiNWQxNjAwN2EzMWZlZWZiOTY",
+      "price": "11,999.00",
+      "mrp": "21,999.00"
+    },
+    {
+      "name": "Realme Pad Mini 22.09 cm (8.7 inch) LTE Tablet 3 GB RAM, 32 GB, Grey RMP2105",
+      "img": "https://www.reliancedigital.in/medias/Realme-RMP2105-Regular-Tablets-492850322-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2MzUxMnxpbWFnZS9qcGVnfGltYWdlcy9oNWUvaDQ5Lzk4NDg5MDQ3Nzc3NTguanBnfGZiMTY1YjAwZGQ5NjQ3ODBlZGU4NGFlZmNmMzMyODM2ZTQxMmVmZTQ0NjQzYjg4MGM5ZjhhMmNlMTIyZWFlYWQ",
+      "price": "11,999.00",
+      "mrp": "21,999.00"
+    },
+    {
+      "name": "Realme Pad Mini 22.09 cm (8.7 inch) Wi-Fi Tablet 4 GB RAM, 64 GB, Grey RMP2106",
+      "img": "https://www.reliancedigital.in/medias/Realme-RMP2106-Regular-Tablets-492850315-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2MzU0M3xpbWFnZS9qcGVnfGltYWdlcy9oYjkvaGYzLzk4NDg5MDM3OTQ3MTguanBnfDM0N2FkYzgzMzg1NjdiMjAwOGE2MGFlOTBmZjAzMGJjOTBjMDg0NzllMjMzMTU1OWRkNDFhODNlYzhmZDRhM2I",
+      "price": "12,999.00",
+      "mrp": "19,999.00"
+    },
+    {
+      "name": "Realme Pad Mini 22.09 cm (8.7 inch) Wi-Fi Tablet 4 GB RAM, 64 GB, Blue RMP2106",
+      "img": "https://www.reliancedigital.in/medias/Realme-RMP2106-Regular-Tablets-492850316-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2MzQ0NHxpbWFnZS9qcGVnfGltYWdlcy9oMTUvaDlkLzk4NDg5MDQxMjIzOTguanBnfGU5NmEzM2FkN2FhMjFlYjMyYzgzZTZlNzQxNTVhMmNiY2NkYTZlZGM0ZjQ4MGQ5YzA2ZDE0ZmFlNTA2NWE0MmE",
+      "price": "12,999.00",
+      "mrp": "19,999.00"
+    },
+    {
+      "name": "Realme Pad Mini 22.09 cm (8.7 inch) Wi-Fi Tablet 3 GB RAM, 32 GB, Blue RMP2106",
+      "img": "https://www.reliancedigital.in/medias/Realme-RMP2106-Regular-Tablets-492850317-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2Mzc2OXxpbWFnZS9qcGVnfGltYWdlcy9oN2YvaDRkLzk4NDg5MDQ0NTAwNzguanBnfGRkZDZmYWYxNjlmMjIwZjNmZWIyMTYyZTkwYzJhNWY3YTUyMWUyNjNlNTJlYjBlMzY0YWIxNjhlNjlhYjk2NTU",
+      "price": "9,999.00",
+      "mrp": "17,999.00"
+    },
+    {
+      "name": "Realme Pad Mini 22.09 cm (8.7 inch) Wi-Fi Tablet 3 GB RAM, 32 GB, Grey RMP2106",
+      "img": "https://www.reliancedigital.in/medias/Realme-RMP2106-Regular-Tablets-492850318-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2Mzc4MHxpbWFnZS9qcGVnfGltYWdlcy9oMTYvaGFlLzk4NDg5MDM0NjcwMzguanBnfGJiNGYzOTA0MGEyNGM4M2VhNDg4YjQ2NzE3NjljMzk3MzM5MjEyNjBkOWY0ODUyMWQzMTQ3NGEwNDc2YzBhZTg",
+      "price": "9,999.00",
+      "mrp": "17,999.00"
+    },
+    {
+      "name": "Inbase Tablet Flip Cover for Samsung Tab A8, Black IB-785",
+      "img": "https://www.reliancedigital.in/medias/Inbase-IB-785-Bags-and-Cases-491901417-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzMjA1MXxpbWFnZS9qcGVnfGltYWdlcy9oN2QvaDYwLzk0MzIzMzU1NDg0NDYuanBnfDMwMDg0NWJjNDI5NDI1NTc3N2Q2ZDJhNDZmZTczZmZlYmI1OTZiYmQ5YzljY2FkZGYzZjQzNjAzZTRkN2I1YjY",
+      "price": "799.00",
+      "mrp": "1,499.00"
+    },
+    {
+      "name": "Inbase Tablet Flip Cover for Lenovo Tab E8, Black IB-840",
+      "img": "https://www.reliancedigital.in/medias/Inbase-IB-840-Bags-and-Cases-491901418-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNzM2MnxpbWFnZS9qcGVnfGltYWdlcy9oMTQvaGMxLzk0MzIzMzY1MzE0ODYuanBnfGQ0OWE0NzkwNzVjZTVhNmRjYzFlNWYxMzcyNGQwYmEzNGVkMDIzODg1ZTQ3MzQxZTdhMDM3NmM3YTYzYTkyNzg",
+      "price": "799.00",
+      "mrp": "1,499.00"
+    },
+    {
+      "name": "Inbase Tablet Flip Cover for Lenovo Tab M10, Black IB-835",
+      "img": "https://www.reliancedigital.in/medias/Inbase-IB-835-Bags-and-Cases-491901426-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1ODM3NXxpbWFnZS9qcGVnfGltYWdlcy9oMDYvaGM1Lzk0MzIzNDQ3MjM0ODYuanBnfDBlMGFjNGZjNDY2ZGUyMGMyNjhkMmE4MDdhY2ZkZWYwMmQ2ODA2Y2E5NTI0MGViZTg3ZDBkMmVmNDBlNjNlMWY",
+      "price": "999.00",
+      "mrp": "1,999.00"
+    },
+    {
+      "name": "Inbase Silk Series Tablet Flip Cover for Samsung Tab A, Black IB-777",
+      "img": "https://www.reliancedigital.in/medias/Inbase-IB-777-Bags-and-Cases-491901423-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2MDY0M3xpbWFnZS9qcGVnfGltYWdlcy9oMTEvaGM4Lzk0MzIzNDQwNjgxMjYuanBnfDFlMDM1NmE3MWQxZTJiZTM1ZTJlOGMzZDU4ZjU5MjBiMzAwZGQyYTg3Yjc1NjQxM2YzNmQzMDNiNmI3ZDc0ZGI",
+      "price": "999.00",
+      "mrp": "2,499.00"
+    },
+    {
+      "name": "Inbase Silk Series Tablet Flip Cover for Samsung A10.1, Black IB-772",
+      "img": "https://www.reliancedigital.in/medias/Inbase-IB-772-Bags-and-Cases-491901422-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDg4OXxpbWFnZS9qcGVnfGltYWdlcy9oNTgvaDgzLzk0MzIzNDAxMzU5NjYuanBnfDFjYWYyMDdmYTE1ZDAzNzExYWE1MmNhYzE3ZDZjMDJmNGVjYzhhZjRlODA2MzhmYWYyMGM0MmViNzczMWQwNmM",
+      "price": "999.00",
+      "mrp": "2,499.00"
+    },
+    {
+      "name": "Reconnect Mobile & Tablet Stand for 15.24 cm (6 inch) to 25.4 cm (10 inch) Mobile Phone and Tablet, Yellow",
+      "img": "https://www.reliancedigital.in/medias/Reconnect-RAVSG1002-Mobile-Grips-and-Stands-491998784-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w3NjE4fGltYWdlL2pwZWd8aW1hZ2VzL2g0MS9oZWEvOTkwNzczOTcyMTc1OC5qcGd8ZTc1ZmI1MzJlYzMyNjJjYmE0OTFiNDQ1NTc0MWQzMDMzOGFjNTM0ZWZiOTJlMzkzZTgxMTk4YjY4OTY1NTFhNw",
+      "price": "299.00",
+      "mrp": "399.00"
+    },
+    {
+      "name": "Reconnect Mobile & Tablet Stand for 15.24 cm (6 inch) to 25.4 cm (10 inch) Mobile Phone and Tablet, White",
+      "img": "https://www.reliancedigital.in/medias/Reconnect-RAVSG1002-Mobile-Grips-and-Stands-491997119-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2MjA1fGltYWdlL2pwZWd8aW1hZ2VzL2g3NS9oYWQvOTgzNjA2NTg4MjE0Mi5qcGd8NTMyNWI0ZTU0MWYxZTVjNDViNjMzY2UzOGYzZWZhZWUxYTU1ODI3MjE4Y2Y3NjM1YjljOWIzMGI1MDcxOThlNQ",
+      "price": "299.00",
+      "mrp": "399.00"
+    },
+    {
+      "name": "Neopack Unimount Tablet/Mobile Stand for 11.93 cm (4.7 inch) to 32.76 cm (12.9 inch) Screen Cell Phones and Tablets ,USTWH",
+      "img": "https://www.reliancedigital.in/medias/Neopack-USTWH-Mounts-and-Stands-491946424-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2NzcxN3xpbWFnZS9qcGVnfGltYWdlcy9oZjcvaDM4Lzk1Mjk1OTQ2NDI0NjIuanBnfGMwNmRiZGU0YjE4NTc4MmM0ZmUyZThmYjRlMjlhYWI2N2VhMzEyOWJhMzRkMzY2Zjg0ZDViOGZkNmQxNGI0NDg",
+      "price": "2,199.00",
+      "mrp": "2,999.00"
+    },
+    {
+      "name": "Belkin F8M890BT04-BLK 17 Watts Mobile Car Charger with Coiled Micro USB Cable",
+      "img": "https://www.reliancedigital.in/medias/Belkin-F8M890BT04-Chargers-and-Adapters-491378291-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MjUwM3xpbWFnZS9qcGVnfGltYWdlcy9oZmQvaGM2Lzg5NTIxNDE3MDkzNDIuanBnfDEyZjNkYjU1ZTVlMGMxNTNiZDY5ZDdjZGYxZmRkYTVlYjg5YzE1ODNiZTE0NmRkYWU1OTU0Zjg4MTJjNWZjYzc",
+      "price": "999.00",
+      "mrp": "1,999.00"
+    },
+    {
+      "name": "Portronics Adapto 62 2.4 Amp Travel Adaptor",
+      "img": "https://www.reliancedigital.in/medias/Portronics-POR-1062-Mobile-Chargers-Adapters-493177244-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNjkzM3xpbWFnZS9qcGVnfGltYWdlcy9oMTMvaGYxLzk4NzA2MTQwMzY1MTAuanBnfGVhOTU0MmJmMDg3NzQ5YTFkYTNkNDJjYzI3MjYyNzg0NzY4ZTZkM2JhOWY1YzUwMGQ2MWY2OGU4ZDU1YzBiYzg",
+      "price": "399.00"
+    },
+    {
+      "name": "CyberPower CPSAC2A2UEU 2.1 Amps Quick Charging Dual Port Wall Adapter with Built-In Overload and Overheat protection",
+      "img": "https://www.reliancedigital.in/medias/Cyber-CPSAC2A2UEU-Chargers-Adapters-491229228-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NDc1MHxpbWFnZS9qcGVnfGltYWdlcy9oNTMvaGVhLzg5MjA5Mzg0MTQxMTAuanBnfDIwOGVhOTkzOTk5ZjQxNGI5ZTdkMTMxNGUwNGY4NWYwNzhmODE3MWY0NjZhZDE5ZGViYTYwZDI2Y2NkMWE2YjY",
+      "price": "599.00",
+      "mrp": "999.00"
+    },
+    {
+      "name": "Cyber Power CPSAC1A2UEU Dual Port Wall Adapter Built-In Overload and Overheat Protection",
+      "img": "https://www.reliancedigital.in/medias/Cyber-CPSAC1A2UEU-Chargers-Adapters-491229227-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NDgwMnxpbWFnZS9qcGVnfGltYWdlcy9oMTcvaDE4Lzg5MjA5MzkzOTcxNTAuanBnfDE5Mzg1YWQ5NTI2ZTRlYzRjY2Y0Y2I5YWUxZDZlZmZhZDc4M2E0YzQ5OTYyZGZlMzE0ZDUxYTFhYTg5MWM5NmI",
+      "price": "599.00",
+      "mrp": "949.00"
+    }
+  ],
+  "televisions": [
     {
       "name": "MI 32 HD Ready Smart LED TV, 4A Horizon, ELA4546IN",
       "img": "https://www.reliancedigital.in/medias/Mi-4A-Horizon-Edition-Television-492166368-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNjcxM3xpbWFnZS9qcGVnfGltYWdlcy9oNDcvaDk4Lzk3OTA4NzQ3MTQxNDIuanBnfDhjNDk4M2M1MTM1YTViZmFkMTY1NGM1ZmU4ZjFiODNiOGQ2NTMyYzUxYjg0NWJmYWE4MjIzODg4YmEzMWM5ZDY",
       "price": "16,499.00",
       "mrp": "19,999.00",
-      "discount": "18%(₹3,500)",
+      "discount": "18%(₹3,500)"
     },
     {
       "name": "IFFALCON 139.7 cm (55 Inch) Ultra HD (4K) Smart LED TV, 55U71",
       "img": "https://www.reliancedigital.in/medias/Iffalcon-55U71-Television-493179244-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MjUyMXxpbWFnZS9qcGVnfGltYWdlcy9oZDMvaGM0Lzk4OTU3NzUwMTA4NDYuanBnfDhlMGU4MDEzNjUzZGNmYzM4ZTkzNTA2OGUwNDkyY2Y2ZTZkMzI5NzIyZjQzMzgzYzI1OTU0MTY5MGZjYTk5M2Y",
       "price": "25,990.00",
       "mrp": "70,990.00",
-      "discount": "63%(₹45,000)",
+      "discount": "63%(₹45,000)"
     },
     {
       "name": "Samsung Wondertainment 80 cm (32 Inch) Smart HD Ready TV, UA32T4340BKXXL",
       "img": "https://www.reliancedigital.in/medias/Samsung-UA32T4340BKXXL-Smart-Television-492403650-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNDk1NnxpbWFnZS9qcGVnfGltYWdlcy9oNDcvaDE3Lzk4NDIyMDUxMzA3ODIuanBnfDljNDA4NjY5ZmYwYjNmMTBlMmYwZGEwODNkMTk5M2ZkMDc5MTgzZTAyY2VmNWYwMjJmYWNlZmEwNzBkNmYyZjI",
       "price": "13,490.00",
       "mrp": "22,900.00",
-      "discount": "41%(₹9,410)",
+      "discount": "41%(₹9,410)"
     },
     {
       "name": "Kodak 139 cm (55 inch) Ultra HD (4K) LED Smart TV, 7XPRO Series 55UHDX7XPRO, Quad Core Processor, Built-In Chromecast",
       "img": "https://www.reliancedigital.in/medias/Kodak-55UHDX7XPRO-Television-492166145-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w3NDEyN3xpbWFnZS9qcGVnfGltYWdlcy9oYzIvaDNmLzk1MTE0Nzk2MDczMjYuanBnfGNkZjZkNTdlYWU4YmQ3YWM0MjU2MWY4OGNlNTBkZTM0YWIzOTQ1NTAwODFkYjkzODJjNGIxNzgwOWI4NzIyZmU",
       "price": "24,999.00",
       "mrp": "46,999.00",
-      "discount": "47%(₹22,000)",
+      "discount": "47%(₹22,000)"
     },
     {
       "name": "Sansui 80 cm (32 Inch) HD Ready Smart TV, Neo Series JSW32CSHD",
       "img": "https://www.reliancedigital.in/medias/Sansui-JSW32CSHD-Television-493179126-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNzMxMnxpbWFnZS9qcGVnfGltYWdlcy9oYmMvaGRhLzk4OTI2OTQ1NTY3MDIuanBnfDNiNGIzMzY5MzI1NjE2YzA0MTlhMjNmY2JkNGE1MjBhMDFjZWI0ODBlMGRmZjU3NjIwMzI0YTJlNzlmMWI4MTQ",
       "price": "8,999.00",
       "mrp": "19,990.00",
-      "discount": "55%(₹10,991)",
+      "discount": "55%(₹10,991)"
     },
     {
       "name": "Kodak 80 cm (32 inch) HD Ready LED Smart TV, 7XPRO Series 32HDX7XPRO, Quad Core Processor, Built-in Chromecast",
       "img": "https://www.reliancedigital.in/medias/Kodak-32HDX7XPRO-Televisions-492166141-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNjIzNHxpbWFnZS9qcGVnfGltYWdlcy9oZmQvaDgwLzk4OTQ2ODczNDI2MjIuanBnfDAxNzdkZTU5YWY0ZjdkMWFhN2NhM2E3ZDY4MjkwZjIzMGNkYjIzYzNkMDkyMTZlNWU3N2ViZTA2YTE4YzcxMzc",
       "price": "9,999.00",
       "mrp": "18,499.00",
-      "discount": "46%(₹8,500)",
+      "discount": "46%(₹8,500)"
     },
     {
       "name": "Hisense 108 cm (43 inch) 2Yr Warranty 4K Ultra HD Smart Certified Android LED TV 43A6GE (Black) with Dolby Vision and ATMOS",
       "img": "https://www.reliancedigital.in/medias/HISENSE-43A6GE-Smart-LED-492338735-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w3NjY5OXxpbWFnZS9qcGVnfGltYWdlcy9oMTEvaDcwLzk3Nzg4NDI1OTk0NTQuanBnfGFiNzdlZmMxODczMmUyNzdlMDRkZGJjMzEyNTA4YTNhMGVhYjlhYmU0MzYwNDBmNmY4NjBlOGJjNDQwZjEzMjg",
       "price": "19,990.00",
       "mrp": "44,990.00",
-      "discount": "56%(₹25,000)",
+      "discount": "56%(₹25,000)"
     },
     {
       "name": "Hisense Vivid 80 cm(32 inch) HD Ready Smart LED TV, E4G, 32E4G",
       "img": "https://www.reliancedigital.in/medias/Hisense-32E4G-Television-492912681-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MDM0NXxpbWFnZS9qcGVnfGltYWdlcy9oMTIvaGVlLzk4Mjk4NTgzNDQ5OTAuanBnfDIzYjlkNDkwNjgwYWViZWY0ZjgxZGI5Njk2MGJiYWNmNGU0MmExOGZlNjFhM2E3YTIyNGYxM2FmMzJmZWI5NmU",
       "price": "10,990.00",
       "mrp": "24,990.00",
-      "discount": "56%(₹14,000)",
+      "discount": "56%(₹14,000)"
     },
     {
       "name": "ONEPLUS 108 cm (43 inch) Full HD Smart LED TV, 43Y1",
       "img": "https://www.reliancedigital.in/medias/ONEPLUS-43Y1-TV-491895011-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNTQ5NHxpbWFnZS9qcGVnfGltYWdlcy9oOGQvaDZmLzk4MTAwNTg1NzU5MDIuanBnfDRlNjk2MTc0MjNiODNmYmZkNmVjNWQwMjM1N2QxMzExOWFkNzcyOTNiY2M3ODU0ZmUyN2Y5OWEyNjExNzFkYTY",
       "price": "21,999.00",
       "mrp": "29,999.00",
-      "discount": "27%(₹8,000)",
+      "discount": "27%(₹8,000)"
     },
     {
       "name": "Hisense 80 cm (32 inch) 2Yr Warranty HD Smart LED TV with One Touch Access, Built-in Google Assistant (32A4G)",
       "img": "https://www.reliancedigital.in/medias/Hisense-32A4G-Smart-Television-492338740-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1NTUzMHxpbWFnZS9qcGVnfGltYWdlcy9oMzQvaGVkLzk3Nzk2NjE5NjMyOTQuanBnfGVkNTA5YWE2NmZlMjNhZTRmNzY1NzE4YjU0NGRhMzc4MjZhYjM0ZmFkMGEyMmE4YTBhZGM2ZWUzMzJiZGZmOTk",
       "price": "13,490.00",
       "mrp": "24,990.00",
-      "discount": "46%(₹11,500)",
+      "discount": "46%(₹11,500)"
+    },
+    {
+      "name": "TCL 81.28 cm (32 inch) HD Ready LED Smart TV, 32S5205",
+      "img": "https://www.reliancedigital.in/medias/Tcl-32S5205-Television-493285675-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MjM4OHxpbWFnZS9qcGVnfGltYWdlcy9oNDMvaGUzLzk4NzcwNTI0ODk3NTguanBnfDM1ZmZlN2JjMzFiMWViNDM4ZDk5N2ZiZGIzMTJkMDE4YjljNDg2YmM4YTRmOTIzMWE0MWM0OGU5NDhlMWViZjQ",
+      "price": "10,990.00",
+      "mrp": "29,990.00",
+      "discount": "63%(₹19,000)"
+    },
+    {
+      "name": "TCL 139.7 cm (55 inch) 3Yrs Warranty QLED Ultra HD (4K) Smart TV, C725 55C725",
+      "img": "https://www.reliancedigital.in/medias/TCL-55C725-LED-TV-493179298-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4ODM0OHxpbWFnZS9qcGVnfGltYWdlcy9oZmIvaGM5Lzk5MDc3NjczNzc5NTAuanBnfGRjNTA4YzUwYTllZWU2MzZlNjExMzMwNDIxOWFkMTk0ZGU3OWE1Njc3ZGNlZDM1MDczZGMzYWUwM2I0NDc0MzE",
+      "price": "40,990.00",
+      "mrp": "1,16,990.00",
+      "discount": "65%(₹76,000)"
+    },
+    {
+      "name": "ONEPLUS 81.28 cm (32 inch) HD Smart LED TV, 32Y1",
+      "img": "https://www.reliancedigital.in/medias/ONEPLUS-32Y1-TV-491895010-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMjIzMXxpbWFnZS9qcGVnfGltYWdlcy9oNjkvaDE0Lzk4MTAwNTg5MDM1ODIuanBnfGFiZjk3NDA1MzY1ODQwYjc2OTZkMzY4OTI1Y2RmOWM3OTI4NTE1MTlkMDFlOTUwYmZkM2U5MTVlYmIyZGFlYzg",
+      "price": "12,999.00",
+      "mrp": "19,990.00",
+      "discount": "35%(₹6,991)"
+    },
+    {
+      "name": "BPL 80 cm (32 inch) HD Ready LED Android Smart TV, Black, 32H-B4000",
+      "img": "https://www.reliancedigital.in/medias/BPL-32H-B4000-TV-492338719-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDg4N3xpbWFnZS9qcGVnfGltYWdlcy9oOTQvaDRkLzk4MzI4NTg5NDM1MTguanBnfGIyM2UwZmQ5NzQ3OGEzMzQ0YzY1ZTRkZTZkNjc1NzY3Yzg4MDkxOGFkMDFlMjMzYTFjYjNkM2ZhMWQwM2YyNjA",
+      "price": "9,999.00",
+      "mrp": "25,000.00",
+      "discount": "60%(₹15,001)"
+    },
+    {
+      "name": "IFFALCON 109.22 cm (43 inch) Full HD LED Smart TV, 43F2A (Android 8.0, Dolby Decoder Technology for Enhance Audio-Quality)",
+      "img": "https://www.reliancedigital.in/medias/IFFALCON-43F2A-Television-492338468-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MTMwNXxpbWFnZS9qcGVnfGltYWdlcy9oOWIvaDg5Lzk1ODA4NzU2Nzc3MjYuanBnfDk3ZmIwN2RjZTUxNTA1YTBmMzk5MWY4YjA3OGJmYjJkNGQ3MDFjNmJhNjU1Yjk5MWRhZTNmNTI3ZTE0ZmExNTc",
+      "price": "15,990.00",
+      "mrp": "45,990.00",
+      "discount": "65%(₹30,000)"
+    },
+    {
+      "name": "Itel 108 cm (43 inch) Full HD Android Smart LED TV, G4330IE",
+      "img": "https://www.reliancedigital.in/medias/Itel-G4330IE-Television-493072590-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MDM2NXxpbWFnZS9qcGVnfGltYWdlcy9oNmIvaDQyLzk4OTU1NjY1MDgwNjIuanBnfDc4NDUxNjU3MGMyYmQ2ZjIwNjIxOThlZTI0ZTRlYmIzZmI1YWUwMzc4NzZkYjhhNTcwMzI3OGMwNjk2ZGZiMjM",
+      "price": "14,990.00",
+      "mrp": "40,990.00",
+      "discount": "63%(₹26,000)"
+    },
+    {
+      "name": "OnePlus 100 cm (40 inch) Full HD LED Smart TV, Y Series 40Y1",
+      "img": "https://www.reliancedigital.in/medias/OnePlus-40Y1-Television-492338486-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w3NjEzOHxpbWFnZS9qcGVnfGltYWdlcy9oMDYvaGE1Lzk1NTc0NDMwODQzMTguanBnfDRhYTQ4MWM4MjNkODNiYmY4YThlZGQ2YjBkMTc3NGY1OTE4MTAzODE5MGZhMzI4NzM2Mzc2MTkzYzQwMzY4OGI",
+      "price": "19,999.00",
+      "mrp": "27,990.00",
+      "discount": "29%(₹7,991)"
+    },
+    {
+      "name": "LG 81.28 cm (32 inch) HD LED Smart TV, 32LM562BPTA",
+      "img": "https://www.reliancedigital.in/medias/LG-32LM562BPTA-Televisions-492338698-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w5NDEyMnxpbWFnZS9qcGVnfGltYWdlcy9oZDEvaDY3Lzk2MDU1NDcwMzI2MDYuanBnfDM1MWQzMTEzYmEyYWY2MGI0OTViYjJjZmNmNGMxZTUzZTViNTJiOTQ0MmY2ODg1ZDgwOWZhYjdmZmNiNGNkZmU",
+      "price": "14,990.00",
+      "mrp": "20,990.00",
+      "discount": "29%(₹6,000)"
+    },
+    {
+      "name": "SAMSUNG Crystal 4K Pro 125 cm (50 inch) Ultra HD (4K) LED Smart TV with Voice Search (UA50AUE70AKLXL)",
+      "img": "https://www.reliancedigital.in/medias/Samsung-UA50AUE70AKLXL-LED-TV-492796780-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NDUzN3xpbWFnZS9qcGVnfGltYWdlcy9oZmMvaGY1Lzk4MDcxMTIxNzU2NDYuanBnfDg3ZTgxOWE2YjcxZWRmNzZlZmFmOWY2MmE5ODY1ZGM1OTE5OTQ4MTE2MzViYzY2ZDJhYjVmM2FmZWE2ZTFmNDE",
+      "price": "43,990.00",
+      "mrp": "71,400.00",
+      "discount": "38%(₹27,410)"
+    },
+    {
+      "name": "IFFALCON 109.22 cm (43 Inch) Ultra HD (4K) Smart LED TV, 43U71",
+      "img": "https://www.reliancedigital.in/medias/Iffalcon-43U71-Television-493179242-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MjU3NHxpbWFnZS9qcGVnfGltYWdlcy9oNzcvaDA5Lzk4OTU3NzUzMzg1MjYuanBnfDM3YWI1NTdmNTRhZDljMjY0MWI3MzFlZDZlNGFkY2Q3MmQyY2RkYzhlNDg5ZTJkOTk3MjNlNWUwNTM3NzU0N2I",
+      "price": "18,990.00",
+      "mrp": "47,990.00",
+      "discount": "60%(₹29,000)"
+    },
+    {
+      "name": "Kodak 126 cm (50 inch) Ultra HD (4K) Smart LED TV, CAPRO Series 50CAPRO5066",
+      "img": "https://www.reliancedigital.in/medias/Kodak-50CAPRO5066-Televisions-492579288-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyOTc1M3xpbWFnZS9qcGVnfGltYWdlcy9oYjYvaDhmLzk4OTQ3MjA3NjU5ODIuanBnfGYxYzA1M2Y2MmZiZjIxZGM3MmU0YTQ2NTBjNTg1ZGE0M2Y2NGM3NGZjYjNhZTUzZGMxYjhiMzY1MjVlZGUxMmE",
+      "price": "26,999.00",
+      "mrp": "46,999.00",
+      "discount": "43%(₹20,000)"
+    },
+    {
+      "name": "TCL 127 cm (50 inch) 3Yrs Warranty Ultra HD (4K) Smart QLED TV, 50C725",
+      "img": "https://www.reliancedigital.in/medias/TCL-50C725-LED-Televisions-493179502-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2NTY5M3xpbWFnZS9qcGVnfGltYWdlcy9oMGUvaDk5Lzk5MjE3MjQwNTU1ODIuanBnfGIxNmFhZDU2ODg2ZjM0OGI1ZTY5ODA5ZDY0YzNiMTZkODRhNWI3YjA3M2IwMzZiMWJiNjU5NzM3MDYxNjFhZDg",
+      "price": "34,990.00",
+      "mrp": "1,10,990.00",
+      "discount": "68%(₹76,000)"
+    },
+    {
+      "name": "Xiaomi 81.28 cm (32 Inch) HD Ready Smart TV, 5A Series ELA4819IN",
+      "img": "https://www.reliancedigital.in/medias/Xiaomi-ELA4819IN-Televisions-493285619-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4NDAzNXxpbWFnZS9qcGVnfGltYWdlcy9oNDcvaDg5Lzk4NzAwMjYxNzg1OTAuanBnfGFhMTU4MGJlN2Y4ZTkxZTFjNzQzODAyY2JkOGY0NTA1YzNjOWZiYzI3M2EyN2UzMTZlZDg4ODFjYzZlYTNkOGM",
+      "price": "13,499.00",
+      "mrp": "24,999.00",
+      "discount": "46%(₹11,500)"
+    },
+    {
+      "name": "OnePlus 81.28 cm (32 inch) HD Ready Android Smart LED TV with Dolby Audio Surround Sound Technology, 32Y1S Edge",
+      "img": "https://www.reliancedigital.in/medias/ONEPLUS-32Y1S-EDGE-SMART-LED-TV-492796556-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MzIyMHxpbWFnZS9qcGVnfGltYWdlcy9oNjMvaGRmLzk3Nzg1NjI5OTAxMTAuanBnfGViZTM4YWU1NzgyNDZmZTg1NmZhY2U5MWU1MTMxMjVhZmFmMzJmYjg1YzhkNzY2MTg3Y2E5MDMzZmM3M2U0NmE",
+      "price": "16,499.00",
+      "mrp": "23,999.00",
+      "discount": "31%(₹7,500)"
     }
   ],
-  "profile": { "name": "typicode" }
+  "headphones": [
+    {
+      "name": "Boat Rockerz 518 Blueooth Headphone with Mic, Thumping Bass, Up to 10H Playtime, Dual Connectivity Modes, Easy Access Controls and Ergonomic Design Red",
+      "img": "https://www.reliancedigital.in/medias/Boat-Rockerz-518-Headphone-491431563-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMjM0OHxpbWFnZS9qcGVnfGltYWdlcy9oMGUvaDNhLzk3NjU0MTA4OTc5NTAuanBnfDEyOWI1Y2YwZmZkMTBjNWU3Mjc2MjBmODk0YTFkYzgzZGM2NmZhNDM4YzRhYWRhZmI4MTk4Mzk5ZjdkYzk5NzE",
+      "price": "1,299.00",
+      "mrp": "3,990.00",
+      "discount": "67%(₹2,691)"
+    },
+    {
+      "name": "Sennheiser HD 250BT Wireless Headphone with Mic, DJ-inspired audio, Smart Control App, Noise-isolating ear pads (Black)",
+      "img": "https://www.reliancedigital.in/medias/Sennheiser-HD-250BT-Headphones-and-Headsets-491935951-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNzEwOXxpbWFnZS9qcGVnfGltYWdlcy9oNWQvaDFlLzk0MDcwNTk3MjIyNzAuanBnfGEwYjUxOTJlM2MyZGM0NjMyZGUzNDI0Y2ZiMWYzNTBiZTZlYjE2ZWZiNTg0NjBjODY0Y2FlMzcyOGVkNjhkYTU",
+      "price": "5,290.00",
+      "mrp": "5,490.00",
+      "discount": "4%(₹200)"
+    },
+    {
+      "name": "Zebronics Zeb-Bang Wireless Bluetooth Headphone with Foldable Design, Voice Assistant (Red)",
+      "img": "https://www.reliancedigital.in/medias/ZEBRONICS-Zeb-BangRed-BTSTEREOHEADPHONE-492573089-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMDMzOHxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDk5Lzk3MjU1ODk5NDYzOTguanBnfDA3YTM2YTE2M2M0NTZhNTAyZDQwMzE5MDQxNzZkZjBjOGQ0ZDBmZThhMmU2ZWJlZGMyYjcyNDU1MzlmZjU1MzI",
+      "price": "809.00",
+      "mrp": "1,599.00",
+      "discount": "49%(₹790)"
+    },
+    {
+      "name": "ptron Soundster Lite Over-Ear Bluetooth Headphone with 12 Hours Playtime, Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "899.00",
+      "mrp": "2,000.00",
+      "discount": "55%(₹1,101)"
+    },
+    {
+      "name": "Philips TAUH201BK On-Ear Headphone with Echo Cancellation Mic, Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,499.00",
+      "mrp": "1,999.00",
+      "discount": "25%(₹500)"
+    },
+    {
+      "name": "Infinity (JBL) Wynd 700 Wired Headphone with 1.2m Cable Length and 1-button Remote/Mic, Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,399.00",
+      "mrp": "2,499.00",
+      "discount": "44%(₹1,100)"
+    },
+    {
+      "name": "Infinity (JBL) Wynd 700 Wired Headphone with 1.2m Cable Length and 1-button Remote/Mic, Blue",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,399.00",
+      "mrp": "2,499.00",
+      "discount": "44%(₹1,100)"
+    },
+    {
+      "name": "BPL Head Shot MX 300 BWLH301 Bluetooth Headphone with 24 hours Playtime, Green",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,199.00",
+      "mrp": "2,599.00",
+      "discount": "54%(₹1,400)"
+    },
+    {
+      "name": "Zebronics Zeb-Bang Wireless Bluetooth Headphone with Foldable Design, Voice Assistant (Black)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "709.00",
+      "mrp": "1,599.00",
+      "discount": "56%(₹890)"
+    },
+    {
+      "name": "Zebronics Zeb-Bang Wireless Bluetooth Headphone with Foldable Design, Voice Assistant (Green)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "709.00",
+      "mrp": "1,599.00",
+      "discount": "56%(₹890)"
+    },
+    {
+      "name": "Zebronics Zeb-Bang Wireless Bluetooth Headphone with Foldable Design, Voice Assistant (Orange)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "709.00",
+      "mrp": "1,599.00",
+      "discount": "56%(₹890)"
+    },
+    {
+      "name": "BPL BWLH101 Wireless Headphone with Mic, Bass, Voice Assistant, Multi pairing technology (White)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "799.00",
+      "mrp": "2,199.00",
+      "discount": "64%(₹1,400)"
+    },
+    {
+      "name": "boAt Rockerz 400 RTL Bluetooth Headphone with High Definition Sound, Powerful Bass and Vocal Clarity, Black/Red",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "999.00",
+      "mrp": "2,990.00",
+      "discount": "67%(₹1,991)"
+    },
+    {
+      "name": "boAt Rockerz 400 RTL Bluetooth Headphone with High Definition Sound, Powerful Bass and Vocal Clarity, Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "999.00",
+      "mrp": "2,990.00",
+      "discount": "67%(₹1,991)"
+    },
+    {
+      "name": "boAt Rockerz 400 RTL Bluetooth Headphone with High Definition Sound, Powerful Bass and Vocal Clarity, Grey/Green",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "999.00",
+      "mrp": "2,990.00",
+      "discount": "67%(₹1,991)"
+    },
+    {
+      "name": "Phillips TAA4216BK Wireless Headphone with IP55 Dust/Water protection, Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "3,499.00",
+      "mrp": "8,999.00",
+      "discount": "61%(₹5,500)"
+    },
+    {
+      "name": "boAt Marvel Edition Rockerz 450 Black Panther On-Ear Wireless Bluetooth Headphone, King's Purple",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,999.00",
+      "mrp": "3,999.00",
+      "discount": "50%(₹2,000)"
+    },
+    {
+      "name": "boAt Marvel Edition Rockerz 450 Iron Man On-Ear Wireless Bluetooth Headphone, Stark Red",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,999.00",
+      "mrp": "3,999.00",
+      "discount": "50%(₹2,000)"
+    },
+    {
+      "name": "Marshall Major IV Wireless Bluetooth Headphone, Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "12,999.00",
+      "mrp": "14,999.00",
+      "discount": "13%(₹2,000)"
+    },
+    {
+      "name": "boAt Immortal 1300 Gaming Bluetooth Headphone, Phantom Blue",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "4,099.00",
+      "mrp": "9,990.00",
+      "discount": "59%(₹5,891)"
+    },
+    {
+      "name": "boAt Immortal 1300 Gaming Bluetooth Headphone, Black Sabre",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "4,099.00",
+      "mrp": "9,990.00",
+      "discount": "59%(₹5,891)"
+    },
+    {
+      "name": "boAt Immortal 1300 Gaming Bluetooth Headphone, Raging Red",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "4,099.00",
+      "mrp": "9,990.00",
+      "discount": "59%(₹5,891)"
+    },
+    {
+      "name": "boAt Immortal 1300 Gaming Bluetooth Headphone, White Sabre",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "4,099.00",
+      "mrp": "9,990.00",
+      "discount": "59%(₹5,891)"
+    },
+    {
+      "name": "Portronics Aural 1 Foldable Wired Headphone, White",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "599.00",
+      "mrp": "1,499.00",
+      "discount": "60%(₹900)"
+    }
+  ],
+  "home appliances": [
+    {
+      "name": "3M Dust, Pollen and Allergen Filter for Split Air Conditioners, UU010497988, White",
+      "img": "https://www.reliancedigital.in/medias/3M-Split-Air-Conditioner-Filter-491604643-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4Nzc0MXxpbWFnZS9qcGVnfGltYWdlcy9oMTQvaDI0Lzk0OTQ2MTEzOTQ1OTAuanBnfDEwZjc1ZjIzNTYxYzBjNjhlZmE4NmYwZmU3NDc5ZjgzMGRlNDNmOGY0YjZkNTE5YTU3Y2I4NzE0ZjMzY2ZjYTM",
+      "price": "499.00",
+      "mrp": "1,200.00",
+      "discount": "58%(₹701)"
+    },
+    {
+      "name": "Amazon Smart Plug, 6A, Voice Control Appliances with Alexa",
+      "img": "https://www.reliancedigital.in/medias/Amazon-Easy-Set-Up-Smart-Plug-491934645-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNzUwOHxpbWFnZS9qcGVnfGltYWdlcy9oZDAvaDEyLzk1NDYyNjcxOTc0NzAuanBnfGI3ODAwMDk0ZTAwZDdmZjcwYTViMDIyZjhhNjZmZDJkOGJjZjVkNDdhYmEwOTg0Zjc2NTNmNzg5M2Q1ZDE4YjU",
+      "price": "1,999.00"
+    },
+    {
+      "name": "Syska Wi-Fi Smart Plug, for small Appliances (10A) Compatible with Alexa & Google Assistant",
+      "img": "https://www.reliancedigital.in/medias/SYSKA-SSK-MWP002-Smart-Plugs-491600477-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNzgzNXxpbWFnZS9qcGVnfGltYWdlcy9oZWQvaDc2LzkzMTg2OTQ3MTU0MjIuanBnfDQ3ZjRlNTRjNzg1NGIxOWIzN2E2YmVkZmEwNmM3YTNjZDMyNGIyMzdjNjljNTM5NDE5ZTcwYWM4MzZmZTE0ZTY",
+      "price": "899.00",
+      "mrp": "2,599.00",
+      "discount": "65%(₹1,700)"
+    },
+    {
+      "name": "Wipro 10A Smart Plug with Energy Monitoring, Suitable for Small Appliances, Works with Alexa and Google Assistant (DSP1100)",
+      "img": "https://www.reliancedigital.in/medias/Wipro-DSP1100-smart-plug-492338549-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1ODI3fGltYWdlL2pwZWd8aW1hZ2VzL2g1MC9oYmQvOTYzMzA2MzMzODAxNC5qcGd8YmI5ZTc4Y2U2ZDY1MmQxZTEwMTFjYmU5ZWMwMmIzNDllMjc5MmJjMDlmNjE4OTQ1MzlmMWZmMjgxOGE0MDFkMw",
+      "price": "899.00",
+      "mrp": "1,990.00",
+      "discount": "55%(₹1,091)"
+    },
+    {
+      "name": "Syska Wi-Fi Smart Plug, for big Appliances (16A) Compatible with Alexa & Google Assistant and power meter",
+      "img": "https://www.reliancedigital.in/medias/SYSKA-SSK-MWP003-Smart-Plugs-491615076-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNDU5M3xpbWFnZS9qcGVnfGltYWdlcy9oYzAvaGMyLzkzMTg2OTQwNjAwNjIuanBnfDFiMmIzY2FhODZiMjE0OGI1ODA5ZjM2NGNiN2FlZmIyMmIzMzc0Nzg1NWYxNjgwMjE4OGJjOWExMjFlMjBiM2M",
+      "price": "1,099.00",
+      "mrp": "4,190.00",
+      "discount": "74%(₹3,091)"
+    },
+    {
+      "name": "Wonderchef Revo Hand Mixer",
+      "img": "https://www.reliancedigital.in/medias/Wonderchef-Revo-Hand-Blenders-and-Mixers-491902932-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MTYzMnxpbWFnZS9qcGVnfGltYWdlcy9oNzcvaGQ1Lzk0MzQ4MzQ2MzI3MzQuanBnfGU5ZjE0ZGI3ZmViNTMwMzQyZTU5NDg0YTUyOGM1MzJiYTc5ZTNiMmJhYTllNTE3YTgyNmNiZTlhMWYzNDAyYzI",
+      "price": "2,049.00",
+      "mrp": "3,000.00",
+      "discount": "32%(₹951)"
+    },
+    {
+      "name": "Bajaj 550W Splendora 3 Jars Mixer Grinder with 3 Sturdy and Durable SS Jars (Blue)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "3,099.00",
+      "mrp": "4,800.00",
+      "discount": "35%(₹1,701)"
+    },
+    {
+      "name": "Voltas Beko 195 Litre 2 Star Direct Cool Single Door Refrigerator, Belus Wine, RDC215DBWRX",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "13,990.00",
+      "mrp": "22,790.00",
+      "discount": "39%(₹8,800)"
+    },
+    {
+      "name": "Voltas Beko 195 Litre 3 Star Direct Cool Single Door Refrigerator, Dahlia Wine, RDC215CDWEX",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "14,990.00",
+      "mrp": "25,290.00",
+      "discount": "41%(₹10,300)"
+    },
+    {
+      "name": "Voltas Beko 195 Litre 3 Star Direct Cool Single Door Refrigerator, Dahlia Blue, RDC215CDBEX",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "14,990.00",
+      "mrp": "25,290.00",
+      "discount": "41%(₹10,300)"
+    },
+    {
+      "name": "Voltas Beko 195 Litre 4 Star Direct Cool Single Door Refrigerator, Vivi Wine, RDC215BVWEX",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "16,150.00",
+      "mrp": "27,290.00",
+      "discount": "41%(₹11,140)"
+    },
+    {
+      "name": "Voltas Beko 195 Litre 2 Star Direct Cool Single Door Refrigerator, Belus Blue, RDC215DBBRX",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "13,490.00",
+      "mrp": "22,790.00",
+      "discount": "41%(₹9,300)"
+    },
+    {
+      "name": "Wonderchef Turbo Dual Speed Food Processor with Non-slip Base (Black)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "799.00",
+      "mrp": "2,000.00",
+      "discount": "60%(₹1,201)"
+    },
+    {
+      "name": "Wonderchef NutriPot 3 Ltr Electric Pressure Cooker",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "5,999.00",
+      "mrp": "7,000.00",
+      "discount": "14%(₹1,001)"
+    },
+    {
+      "name": "Wonderchef NutriPot 6 Ltr Electric Pressure Cooker",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "6,899.00",
+      "mrp": "11,000.00",
+      "discount": "37%(₹4,101)"
+    },
+    {
+      "name": "Wonderchef Onyx 5 Speed Hand Mixer for Mixing, kneading, whiping, mashing and blending",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,699.00",
+      "mrp": "2,500.00",
+      "discount": "32%(₹801)"
+    },
+    {
+      "name": "Wonderchef 200 Watt Ultima Plus Hand Mixer with 5 Speed Setting, Stainless Steel Beater and Kneading Hooks (White)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,399.00",
+      "mrp": "2,200.00",
+      "discount": "36%(₹801)"
+    },
+    {
+      "name": "Wonderchef 750 Watts Glory Mixer Grinder with 4 Stainless Steel Jars (Black)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "2,999.00",
+      "mrp": "6,000.00",
+      "discount": "50%(₹3,001)"
+    },
+    {
+      "name": "Wonderchef Acura Hand Mixer with Whisking Attachments and Dough Hooks",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,199.00",
+      "mrp": "2,200.00",
+      "discount": "46%(₹1,001)"
+    },
+    {
+      "name": "Wonderchef 2 Slice Crimson Edge Toaster with Browning Controls, Removable Crumb Tray, Red",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "2,799.00",
+      "mrp": "4,500.00",
+      "discount": "38%(₹1,701)"
+    },
+    {
+      "name": "Voltas Beko 7 kg Top Loading Semi Automatic Washing Machine, WTT70AGRTS",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "8,990.00",
+      "mrp": "13,690.00",
+      "discount": "34%(₹4,700)"
+    },
+    {
+      "name": "Wonderchef Nutri-Blend Mixer Grinder, Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "2,999.00",
+      "mrp": "5,000.00",
+      "discount": "40%(₹2,001)"
+    },
+    {
+      "name": "Wonderchef Nutri-Blend Complete Kitchen Machine (CKM), Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "3,499.00",
+      "mrp": "6,800.00",
+      "discount": "49%(₹3,301)"
+    },
+    {
+      "name": "Voltas Beko 7.5 Kg Top Loading Semi-Automatic Washing Machine, Beko WTT75BRTPRMDZ, Burgundy",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "10,290.00",
+      "mrp": "16,990.00",
+      "discount": "39%(₹6,700)"
+    }
+  ],
+  "computers": [
+    {
+      "name": "HP 14s-dr3001TU Laptop (Intel Pentium Silver N6000/8 GB/256 GB SSD/UHD Graphics/Windows 11 Home/MSO/HD), 35.6 cm (14 inch)",
+      "img": "https://www.reliancedigital.in/medias/Hp-681Y7PA-ACJ-Laptop-493178767-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNjAxOXxpbWFnZS9qcGVnfGltYWdlcy9oYTQvaDU2Lzk5MjM5NDA2MTQxNzQuanBnfGEzZDE5OGQxNmY4M2FkMGUxODU2OTg4MDdkOTFkMmZlYmJmZjdiMDAzZTVhYzBiZmVmNThiMmYwYzhmMTkyNGI",
+      "price": "26,490.00",
+      "mrp": "37,000.00",
+      "discount": "28%(₹10,510)"
+    },
+    {
+      "name": "HP 15s-er1501AU Standard Laptop (AMD Ryzen 3 3250U/8 GB/256 GB SSD/Radeon Graphics/Windows 11 Home/MSO/HD), 39.62 cm (15.6 Inch)",
+      "img": "https://www.reliancedigital.in/medias/HP-ER1501AU-Laptop-493178397-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1ODU4NnxpbWFnZS9qcGVnfGltYWdlcy9oNmUvaDIyLzk5MDE1NTA5Mjc5MDIuanBnfDlkOGRhZGEyOWMyZWQzNTI2YTc4ZTY5ODJhYjBlNTRlZDg5YmQ5YTczM2Q2MTg0ZGRkYTE3Y2IyMmI1NTQzMDY",
+      "price": "28,990.00",
+      "mrp": "41,204.00",
+      "discount": "30%(₹12,214)"
+    },
+    {
+      "name": "Lenovo L2IN IdeaPad 3 Laptop (11th Gen Intel Core i3-1115G4 /8GB/256GB SSD/Intel UHD Graphics/Windows 11/MSO/Full HD), 39.62 cm (15.6 inch)",
+      "img": "https://www.reliancedigital.in/medias/Lenovo-L2IN-Laptops-492574725-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2MTQ2NnxpbWFnZS9qcGVnfGltYWdlcy9oZmIvaGQyLzk3NDczMjk5NzQzMDIuanBnfDMxMDY2NDQ1MjE3ZDFjOTZiNjRmYTE0NTlhNmYzMWZmNGNjNjY3NzhkZjE2MTdlZTZmMzE2Yjc3NDBmNjYwMGU",
+      "price": "35,499.00",
+      "mrp": "59,390.00",
+      "discount": "40%(₹23,891)"
+    },
+    {
+      "name": "HP 15s-fq2670TU Laptop (11th Gen Intel Core i3-1115G4/8 GB RAM/256 GB SSD/Windows 11 Home/MSO/FHD), 39.6 cm (15.6 inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "41,400.00",
+      "mrp": "45,409.00",
+      "discount": "9%(₹4,009)"
+    },
+    {
+      "name": "Lenovo LJIN IdeaPad 3 Laptop (11th Gen Intel Core i3-1115G4/8GB/512GB SSD/Intel UHD Graphics/Windows 11/MSO/Full HD), 39.62 cm (15.6 inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "40,499.00",
+      "mrp": "65,690.00",
+      "discount": "38%(₹25,191)"
+    },
+    {
+      "name": "Lenovo IdeaPad 3 Thin and Light Laptop (11th Gen Intel Core i3-1115G4/8 GB/512 GB SSD/Windows 11 Home/MSO/FHD), 39.62 cm (15.6 Inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "38,990.00",
+      "mrp": "67,090.00",
+      "discount": "42%(₹28,100)"
+    },
+    {
+      "name": "HP 15s-fq2672TU Laptop (11th Gen Intel Core i3-1115G4/8GB RAM/512GB SSD/UHD Graphics/Windows 11 Home/MSO/FHD), 39.6 cm (15.6 Inch), Natural Silver",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "43,749.00",
+      "mrp": "49,977.00",
+      "discount": "12%(₹6,228)"
+    },
+    {
+      "name": "HP 15s-fq2671TU Laptop (11th Gen Intel Core i3-1115G4/8 GB RAM/512 GB SSD/Windows 11 Home/MSO/FHD), 39.6 cm (15.6 inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "39,999.00",
+      "mrp": "47,833.00",
+      "discount": "16%(₹7,834)"
+    },
+    {
+      "name": "Asus EK522WS Laptop (11th Gen Intel Core i5-1135G7/8 GB/512 GB SSD/Iris Xe Graphics/Windows 11 Home/MSO/FHD), 35.56 cm (14 Inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "48,990.00",
+      "mrp": "70,990.00",
+      "discount": "31%(₹22,000)"
+    },
+    {
+      "name": "HP 15s-fq5111TU Laptop (12th Gen Intel Core i5-1235U/8 GB RAM/512 GB SSD/Windows 11 Home/MSO/FHD), 39.6 cm (15.6 inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "57,928.00",
+      "mrp": "67,831.00",
+      "discount": "15%(₹9,903)"
+    },
+    {
+      "name": "HP 15s-fr5007TU Laptop (12th Gen Intel Core i5-1235U/8GB RAM/512GB SSD/Iris Xe Graphics/Windows 11 Home/MSO/FHD), 39.6 cm (15.6 Inch), Natural Silver",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "60,499.00",
+      "mrp": "68,000.00",
+      "discount": "11%(₹7,501)"
+    },
+    {
+      "name": "Asus EK562WS Laptop (11th Gen Intel Core i5-1135G7/8GB+32GB Intel Optane/512GB SSD/Intel Iris Xe Graphics/Windows 11/MSO/Full HD), 35.56 cm (14 inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "48,990.00",
+      "mrp": "69,990.00",
+      "discount": "30%(₹21,000)"
+    },
+    {
+      "name": "Lenovo 64IN IdeaPad 3 Laptop(12th Gen Intel Core i5-1235U/8 GB/512 GB SSD/Intel Iris Xe Graphics/Windows 11/MSO/Full HD), 39.62 cm (15.6 inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "58,099.00",
+      "mrp": "79,690.00",
+      "discount": "27%(₹21,591)"
+    },
+    {
+      "name": "Asus Vivobook 14 Laptop (11th Gen Intel Core i3-1115G4/8 GB RAM/512 GB SSD/UHD Graphics/Windows 11 Home/MSO/FHD), 35.56 cm (14 Inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "37,990.00",
+      "mrp": "52,990.00",
+      "discount": "28%(₹15,000)"
+    },
+    {
+      "name": "Acer One 14 Laptop (AMD Ryzen 5 3500U/16 GB/512 GB SSD/Radeon Graphics/Windows 11 Home/HD/MSO), 35.56 cm (14 Inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "38,490.00",
+      "mrp": "60,000.00",
+      "discount": "36%(₹21,510)"
+    },
+    {
+      "name": "HP 15s-eq2144au Laptop (AMD Ryzen 5 5500U Processor/8GB/512GB SSD/AMD Radeon Graphics/Windows 11/MSO/FHD) 39.6 cm (15.6 inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "47,127.00",
+      "mrp": "60,959.00",
+      "discount": "23%(₹13,832)"
+    },
+    {
+      "name": "Acer A315-23 Aspire 3 Laptop (AMD Ryzen 3-3250U/4 GB/256 GB SSD/AMD Radeon Graphics/Windows 11/ Full HD), 39.62 cm (15.6 inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "24,990.00",
+      "mrp": "39,999.00",
+      "discount": "38%(₹15,009)"
+    },
+    {
+      "name": "Lenovo 6CIN IdeaPad 3 Laptop (12th Gen Intel Core i3-1215U/8GB/512GB SSD/Intel UHD Graphics/Windows 11/MSO/FHD), 39.62 cm (15.6 inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "45,499.00",
+      "mrp": "67,090.00",
+      "discount": "32%(₹21,591)"
+    },
+    {
+      "name": "HP 14s-ef1002TU Laptop (11th Gen-Intel Core i3-1115G4/8 GB/512 GB SSD/Intel UHD Graphics/Windows 11/MSO/Full HD), 35.6 cm (14 inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "45,749.00",
+      "mrp": "52,899.00",
+      "discount": "14%(₹7,150)"
+    },
+    {
+      "name": "Lenovo IdeaPad 5 Laptop (12th Gen Intel Core i5-1235U/16 GB/512 GB SSD/Windows 11 Home/MSO/FHD), 39.62 cm (15.6 Inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "62,490.00",
+      "mrp": "1,03,490.00",
+      "discount": "40%(₹41,000)"
+    },
+    {
+      "name": "Asus HN113WS TUF Gaming A15 Gaming Laptop (AMD Ryzen 5 4600H/16 GB/512 GB SSD/4 GB/Nvidia GeForce GTX 1650 Graphics/Windows 11 Home/MSO/FHD), 39.62 cm (15.6 Inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "59,999.00",
+      "mrp": "75,990.00",
+      "discount": "21%(₹15,991)"
+    },
+    {
+      "name": "Dell Inspiron 5518 Thin & Light Laptop (11th Gen Intel Core i5-11320H/8 GB/512 GB SSD/2 GB/Nvidia GeForec MX450/Windows 11 Home/MSO/FHD), 39.62 cm (15.6 inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "68,000.00",
+      "mrp": "78,085.00",
+      "discount": "13%(₹10,085)"
+    },
+    {
+      "name": "Asus Vivobook 15 EJ322WS Laptop (11th Gen Intel Core i3-1115G4/8 GB/512 GB SSD/Intel UHD Graphics/Windows 11 Home/MSO/FHD), 39.62 cm (15.6 Inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "39,990.00",
+      "mrp": "56,990.00",
+      "discount": "30%(₹17,000)"
+    },
+    {
+      "name": "Dell 3511 Inspiron Laptop (11th Gen Intel Core i5-1135G7/16GB/512GB SSD/2 GB Nvidia GeForce MX350 Graphics/Windows 11/MSO/FHD), 39.62 cm (15.6 inch)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "62,300.00",
+      "mrp": "79,139.00",
+      "discount": "21%(₹16,839)"
+    }
+  ],
+  "cameras": [
+    {
+      "name": "Nikon D3500 DSLR Camera with AF-P 18-55 mm + AF-P 70-300 mm VR Kit",
+      "img": "https://www.reliancedigital.in/medias/Nikon-D3500-DSLR-Camera-491431009-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4MjUzfGltYWdlL2pwZWd8aW1hZ2VzL2gxNS9oMDEvOTA3MDM1NjI2NzAzOC5qcGd8NGFmZDk5NDM1MjA0NDFkY2Q0M2FmYzY0ZTlmYmUxZTU1MjJiZWE4ZDNkNTI5Mzg4M2NkOWNjZjdhY2MwZDFkZA",
+      "price": "48,990.00",
+      "mrp": "53,950.00",
+      "discount": "9%(₹4,960)"
+    },
+    {
+      "name": "Nikon COOLPIX P1000 Prosumer Camera 16 MP, Black",
+      "img": "https://www.reliancedigital.in/medias/Nikon-P1000-Prosumer-Camera-491430998-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNTE5OHxpbWFnZS9qcGVnfGltYWdlcy9oYmMvaDVkLzkwNTM4NDQ1MzczNzQuanBnfGE0ZThhNWI3YzE1ZGEzNzcwNjlkZWQzNjYxMmZhMjEwMjhlYjkzYWU0Njg4YjhmYzU4NGI3N2ZkODRiNGQwMjA",
+      "price": "64,990.00",
+      "mrp": "69,950.00",
+      "discount": "7%(₹4,960)"
+    },
+    {
+      "name": "Nikon Z 50 mm Prime Lens",
+      "img": "https://www.reliancedigital.in/medias/Nikon-Z7-Camera-Lenses-491431045-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyOTg0M3xpbWFnZS9qcGVnfGltYWdlcy9oY2YvaGEyLzkwNjk4NjgyODU5ODIuanBnfGM0ZGQ3OGZmZTE4NDdjODI0NTYyN2Q3MzNmMTc2ZDI3MGYzMDllYzIwZGUwMjA2YzFjNjU5ODY1OWY3NDRiMGU",
+      "price": "47,990.00",
+      "mrp": "50,950.00",
+      "discount": "6%(₹2,960)"
+    },
+    {
+      "name": "Nikon Z 35 mm Prime Lens",
+      "img": "https://www.reliancedigital.in/medias/Nikon-Z7-Camera-Lenses-491431044-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyOTc1OHxpbWFnZS9qcGVnfGltYWdlcy9oNjMvaDc2LzkwNjk4NzAyNTIwNjIuanBnfDNjOGI2YzNiM2JkMTIyNmU4MDIxZTc2MzAyNzQ1NmFjYWFmMjhkMTlkMmFiNDQ1MjBiZGJlNzhhN2I4OWZjYTA",
+      "price": "62,990.00",
+      "mrp": "66,950.00",
+      "discount": "6%(₹3,960)"
+    },
+    {
+      "name": "Nikon Z7 Mirrorless Camera with Mount Adapter",
+      "img": "https://www.reliancedigital.in/medias/Nikon-Z7-DSLR-Cameras-491431042-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNTgyMXxpbWFnZS9qcGVnfGltYWdlcy9oNjEvaDA4LzkwNzIxMDUwMjk2NjIuanBnfGY2M2NlOWEyODdmYTU4ZjM2N2Q1YWJhYzgyZWM2NGJlNWU1MjJjMjU3ZDE0NmVhZmJhZWM1ZDkyNTY3YmIxYjQ",
+      "price": "2,81,950.00"
+    },
+    {
+      "name": "Nikon Z7 Mount Adapter for Nikon Mirrorless Cameras",
+      "img": "https://www.reliancedigital.in/medias/Nikon-Z7-Camera-Lenses-491431046-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMjI5MXxpbWFnZS9qcGVnfGltYWdlcy9oZjAvaDYyLzkwODI4OTU2MzAzNjYuanBnfGQwNzhiMzg1MzU2NTU5MTkxMzgzODhiYjRmMzRmZmE1NmFiZDJhNDU5NjMyN2ZlMTdlN2ViM2E0NGQwMjZmOTM",
+      "price": "19,950.00"
+    },
+    {
+      "name": "Nikon JAA830DA 70-200 mm Camera Lens",
+      "img": "https://www.reliancedigital.in/medias/Nikon-LENS-70-200mm-f2.8E-FL-ED-VR-491336345-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNDEwN3xpbWFnZS9qcGVnfGltYWdlcy9oYzUvaDAwLzkwNjA1MzE5OTQ2NTQuanBnfGZkMmYzNTM0N2Q2NmNmZGIzNjI3NDliZmE3YmU2MDMzZGI1MTc4Y2MxYjQ1NjFkNjBlODY3YmUzM2YwYmMyNzQ",
+      "price": "1,62,990.00",
+      "mrp": "1,69,950.00",
+      "discount": "4%(₹6,960)"
+    },
+    {
+      "name": "Nikon Z7 Mirrorless Camera with 24-70 mm Lens Kit and Mount Adapter",
+      "img": "https://www.reliancedigital.in/medias/Nikon-Z7-DSLR-Cameras-491431043-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNDQzN3xpbWFnZS9qcGVnfGltYWdlcy9oZmYvaDlhLzkwNzIxMDMzOTEyNjIuanBnfDcxNDg4MjYwOTdmOTAyZGYwMTQwNGFlY2RjMmY5NjVmZjVmZDExOWNkMjJlMjMzN2Q1ZTBiMDJiMGVjNjRiZTI",
+      "price": "2,59,990.00",
+      "mrp": "2,82,950.00",
+      "discount": "8%(₹22,960)"
+    },
+    {
+      "name": "Nikon Z7 Mirrorless Camera with 24-70 mm Lens Kit",
+      "img": "https://www.reliancedigital.in/medias/Nikon-Z7-DSLR-Cameras-491431041-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNDUxMnxpbWFnZS9qcGVnfGltYWdlcy9oZmQvaDYwLzkwNzIxMDY5OTU3NDIuanBnfDUxMzY4NzI5NGY3MTc4NzEzNjg2NDMwYmFjZTA3MDBkNjA2MGQxNjEwYmE4MzAyYTE4MzQ2ZTZjYzhhYzQwZTc",
+      "price": "2,52,499.00",
+      "mrp": "2,71,450.00",
+      "discount": "7%(₹18,951)"
+    },
+    {
+      "name": "GoPro Hero 7 Action Camera with 12MP Photos + 4K60 Video and Rugged, Waterproof Design, Black",
+      "img": "https://www.reliancedigital.in/medias/Gopro-Action-Camera-Hero7-Black-491430990-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzMTQxNnxpbWFnZS9qcGVnfGltYWdlcy9oYjEvaDgwLzkwMzI3ODg2NzI1NDIuanBnfGY5NzE1N2FiOGZmZjVlY2VmNDI5N2VlYjk3OTM2ODEwMjgxNjg5Y2E5ZDM2NmViOGU2NGIxYmMxZDY2ZTQ0NWY",
+      "price": "29,999.00",
+      "mrp": "30,500.00",
+      "discount": "2%(₹501)"
+    },
+    {
+      "name": "Olympus Mirrorless OM-D E-M1X Camera Body, Black",
+      "img": "https://www.reliancedigital.in/medias/Olympus-EM1XINBLK-CAMERA-492571618-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNDUxNXxpbWFnZS9qcGVnfGltYWdlcy9oMTIvaDRiLzk3Mjc4MjY3ODgzODIuanBnfDViMGQ3NjMzZGRmMzFlZjljNmRhN2YwYzliZTExNmU1ZTgxNzMwM2RkZTkyN2Q4NDM4MjA3Mzk2MWM4MjNlNTY",
+      "price": "1,34,990.00"
+    },
+    {
+      "name": "Insta 360 One R 2.54 cm (1 Inch) Edition Action Camera with Night Shot, Voice Control",
+      "img": "https://www.reliancedigital.in/medias/Insta-360-One-R-1-Inch-Edition-Action-Cameras-491934729-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1OTIyMXxpbWFnZS9qcGVnfGltYWdlcy9oMjgvaDhkLzk3NDIyMzM2OTgzMzQuanBnfDNhOWI3MTI3NGJjZTE1YmNjNDRjYjg3YTgyZTQzOGVhNjk0YzVmNGIyODgzYzNhY2FkOTEzYTg3NGY0ZmJkZmY",
+      "price": "45,500.00",
+      "mrp": "54,990.00",
+      "discount": "17%(₹9,490)"
+    },
+    {
+      "name": "Insta 360 One R Twin Edition Action Camera",
+      "img": "https://www.reliancedigital.in/medias/Insta-360-One-R-Twin-Edition-Action-Cameras-491934730-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NjgyOXxpbWFnZS9qcGVnfGltYWdlcy9oMWMvaDcyLzk3MzY0NDI5MzczNzQuanBnfDIwOGE0OTNjYThjOTg0NjA5MThiOGI2ZGZiM2NmMDYyNTUwYmE5YjlmYmU0MjA5ZWRiMzdhNGZkNDkxNGVmN2M",
+      "price": "41,500.00",
+      "mrp": "54,990.00",
+      "discount": "25%(₹13,490)"
+    },
+    {
+      "name": "Nikon PBGPAC18 DSLR Shoulder Camera Bag for Nikon Z50 Camera",
+      "img": "https://www.reliancedigital.in/medias/Nikon-PBGPAC18-DSLR-Shoulder-Camera-Bag-492579102-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxODM2NnxpbWFnZS9qcGVnfGltYWdlcy9oOTMvaGYzLzk3ODY5NzE0ODgyODYuanBnfGE2Yjc3NTA3YTlmZDFkNzNlNTk4M2FjZmNiZjI3NDE5NjcyYmFjNzIzYzNjODgzZGNmMjA4YWViNjEzMmE4MDU",
+      "price": "2,990.00"
+    },
+    {
+      "name": "Mi 360 Degree Home Security Camera with 2K Video Resolution, Dual-band Wi-Fi and AI Human Detection",
+      "img": "https://www.reliancedigital.in/medias/Mi-MJSXJ06CM-CAMERA-492796740-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNjg4M3xpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDAyLzk4MTkzNTMzMTc0MDYuanBnfDc3MjU5YmE1ZDQ2NTlhODhiZDRlNTdiYzMxYmI5OWE5MDZhOGU5ZTViYmIwM2M2YjQ4NDBjZTAwMjhmYWEyMGE",
+      "price": "4,499.00",
+      "mrp": "5,999.00",
+      "discount": "25%(₹1,500)"
+    },
+    {
+      "name": "Realme 360 Degree 1080p Wi-Fi Smart Camera with WDR technology, AI Motion Detection, White",
+      "img": "https://www.reliancedigital.in/medias/Realme-RMH2001-Smart-Cameras-491936068-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNjUyOXxpbWFnZS9qcGVnfGltYWdlcy9oNTQvaDM1Lzk1MTA3MzE2Nzc3MjYuanBnfDExMmNmOGM5MjgyOWI1ZDlmZGYyZTMwYzY1ODFjNzFjNzhhNWFlZmM1NzIwNTVhNGVkMzkzZjQ3M2RiZmJlZjQ",
+      "price": "2,999.00",
+      "mrp": "3,999.00",
+      "discount": "25%(₹1,000)"
+    },
+    {
+      "name": "Nikon Z 7II Mirrorless Camera With 24-70 Lens Kit",
+      "img": "https://www.reliancedigital.in/medias/Nikon-Z-7II-DSLR-Cameras-491936143-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMjM0ODJ8aW1hZ2UvanBlZ3xpbWFnZXMvaGU5L2gxNS85NTgyODA5Mjg0NjM4LmpwZ3xmMDA2MTEyZGU3NGY5NzQzOGQxOTgzMDk2OTY1MTEwMmMyODNjNjJlYzRjMDAwZTA0YTlhNmE3NzM4ODY4ZTM1",
+      "price": "2,94,995.00"
+    },
+    {
+      "name": "Nikon Z 5 Mirrorless Camera With 24 - 70 mm Lens Kit",
+      "img": "https://www.reliancedigital.in/medias/Nikon-Z-5-DSLR-Cameras-491898117-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMzgxNzV8aW1hZ2UvanBlZ3xpbWFnZXMvaGVlL2gyMy85NTgyODA4MjM2MDYyLmpwZ3xhMzZmNWYwNjczNDc5NzY2MzU1NjJlNDI3MjkzYzI4MzQyYTg0MmIwN2FkYWY4YjEwYmJlM2Q5NjZkMTUxYWQw",
+      "price": "1,48,990.00",
+      "mrp": "1,58,995.00",
+      "discount": "6%(₹10,005)"
+    },
+    {
+      "name": "Qubo Baby Cam Smart Camera, Black (Penguin Themed)",
+      "img": "https://www.reliancedigital.in/medias/Qubo-QUBO-BABY-CAM-Smart-Cameras-491936008-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MzM3NXxpbWFnZS9qcGVnfGltYWdlcy9oOTYvaGRkLzk0MTY2MzkwMjEwODYuanBnfDZiZWRkYTc2YzFlODk0MjYwNjc1ZWIyODhmOWIzMzlhMjJlMmJkNmE2ZDE5NjFmNWUyNTI4NzVmMjA1Mzk3NDQ",
+      "price": "4,990.00",
+      "mrp": "7,490.00",
+      "discount": "33%(₹2,500)"
+    },
+    {
+      "name": "Rode VideoMic Me Directional Microphone, Black",
+      "img": "https://www.reliancedigital.in/medias/Rode-RODE-VIDEOMIC-ME-Camera-Accessories-491903514-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyODkyNXxpbWFnZS9qcGVnfGltYWdlcy9oMjkvaDBkLzk0MDQ1ODQ0Mjc1NTAuanBnfGEzOTc3NTM4YmEzMTM2YjZmZjAzYjgxNzE4MGU0NTY4NjlkNmFkNjA3ZWU5NDhjMTg0ZmRjMWExMjA1NDIxZTY",
+      "price": "5,499.00",
+      "mrp": "6,700.00",
+      "discount": "18%(₹1,201)"
+    },
+    {
+      "name": "Sony Mirrorless ZV-E10L 24.2 MP Interchangeable-Lens Mirrorless vlog Camera Body with 16-50 mm Lens",
+      "img": "https://www.reliancedigital.in/medias/Sony-ZV-E10L-DSLR-Cameras-492520068-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyODg1OHxpbWFnZS9qcGVnfGltYWdlcy9oNWQvaGEyLzk2ODE0MjgyMTc4ODYuanBnfDA3YjVkOWE5YTllMzI5NjI4NTBjMzExMDc2YWYxMzE2YzA5Yjg5NzBjZWRiMjg4NGRjZGIzNjgxNTNhMTRjOGI",
+      "price": "63,990.00",
+      "mrp": "69,990.00",
+      "discount": "9%(₹6,000)"
+    },
+    {
+      "name": "GoPro Hero10 23 MP Action Camera, waterproof camera with 1080p Live Streaming",
+      "img": "https://www.reliancedigital.in/medias/GoPro-HERO10-Black-Action-camera-492571642-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMTkwOXxpbWFnZS9qcGVnfGltYWdlcy9oMzIvaGQ4Lzk2ODg5MTA0MzAyMzguanBnfDkyZjNiZmQ5ZWM3NjRlZWQwMDMyN2I4ODIyMmVjMDE5YzYxMGYwYzY2YzhiMzgxNmNhYjljY2VmMTg0ZWQ3MzE",
+      "price": "51,999.00",
+      "mrp": "54,500.00",
+      "discount": "5%(₹2,501)"
+    },
+    {
+      "name": "Olympus M.Zuiko Ed7-14MmF2.8Pro EZ-M0714PRO(W) Digital Lens",
+      "img": "https://www.reliancedigital.in/medias/Olympus-MZuiko-Ed714MmF28Pro-EZM0714PRO-DigitalLens-492571608-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMDAxMnxpbWFnZS9qcGVnfGltYWdlcy9oYWEvaDVjLzk2ODkxMzk4MzkwMDYuanBnfDgyZjQyZjc5MzQ2MzRkODkzYzMyZjJjOWM3YTIwMjgxYzU2ODA2N2I1Mjc2YjA3YzdlMzkzYTM5NDJkYmY1ZDA",
+      "price": "1,22,990.00"
+    },
+    {
+      "name": "Olympus PT 059 Underwater Protector",
+      "img": "https://www.reliancedigital.in/medias/Olympus-PT-059-Underwater-Protector-Photoaccessories-492571621-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1ODc0N3xpbWFnZS9qcGVnfGltYWdlcy9oN2IvaDI0Lzk2ODkxNDM0NDM0ODYuanBnfDk1ZjczNWY3NGQ1MmEwNWY3ODNhZmQ1NTRiYWEwMGE0NmQ4MzIwZjcyYzhjYTg3NWE2ZGMwZjAzODEzNTU4MWQ",
+      "price": "2,59,990.00"
+    }
+  ],
+  "kitchen": [
+    {
+      "name": "Faber HOOD FEEL 3D PLUS MAX T2S2 BK TC 60 Kitchen Hood with 4 Way Suction Technology (MAX), Touch Control",
+      "img": "https://www.reliancedigital.in/medias/Faber-HOOD-FEEL-3D-PLUS-MAX-T2S2-BK-TC-60-Hoods-491959041-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MTI4MXxpbWFnZS9qcGVnfGltYWdlcy9oODUvaDEyLzk1MTEwOTcwNDA5MjYuanBnfDE5ZjNiMWM0ZGJlMmEyMjBlZDM1NTZkYjhmNTYyYzUxZDgyMzc2YmEzMGM2YTIwZWZiMDc5YmI4YWEwOGViZTk",
+      "price": "23,540.00",
+      "mrp": "34,590.00",
+      "discount": "32%(₹11,050)"
+    },
+    {
+      "name": "Hafele Ivaraa 60 Kitchen Hood with 3 Speed Control, Black",
+      "img": "https://www.reliancedigital.in/medias/Hafele-Ivaraa-60-Hoods-492166166-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNDk1MXxpbWFnZS9qcGVnfGltYWdlcy9oMTgvaDA0Lzk1OTQ0NDQxODU2MzAuanBnfDNhODlhNmYxZDhkNzk2NGVmZWY2MDQ4ODY2YzBjMWY4Yzk3MzFmYTc5NjQ5NmFhNmVhZjQ5YTMzNzAzNzlhYmU",
+      "price": "45,680.00",
+      "mrp": "48,090.00",
+      "discount": "5%(₹2,410)"
+    },
+    {
+      "name": "Hafele Ivaraa 90 Kitchen Hood with 3 Speed Control, Black",
+      "img": "https://www.reliancedigital.in/medias/Hafele-Ivaraa-90-Hoods-491959367-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNDkzOHxpbWFnZS9qcGVnfGltYWdlcy9oOGEvaDVmLzk1OTQ0NDM4NTc5NTAuanBnfGNjMTIzZTg2YjA4M2I4OTYyZDhkYjA3NDU2YjQ1OWI3OTEzZTgwOTRkYTA1YWUzOWUyMDBiYzdlMGI2YmExOTY",
+      "price": "52,620.00",
+      "mrp": "55,390.00",
+      "discount": "5%(₹2,770)"
+    },
+    {
+      "name": "Hafele Datura 60 Plus Kitchen Hood with 3 Speed Control, Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "33,050.00",
+      "mrp": "34,790.00",
+      "discount": "5%(₹1,740)"
+    },
+    {
+      "name": "Hafele Teresa 60 Kitchen Hood with 3 Speed Control, Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "50,340.00",
+      "mrp": "52,990.00",
+      "discount": "5%(₹2,650)"
+    },
+    {
+      "name": "KUTCHINA Turbo DLX 60 Kitchen Hood with Filterless Technology, Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "23,440.00",
+      "mrp": "34,990.00",
+      "discount": "33%(₹11,550)"
+    },
+    {
+      "name": "Faber AEROST. STAR PRO 3D AB TC 60 cm Kitchen Hood With Air purifier & Fan",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "18,490.00",
+      "mrp": "38,990.00",
+      "discount": "53%(₹20,500)"
+    },
+    {
+      "name": "Faber SUPER 3D PLUS T2S2 60 cms 3 Way Silent Suction Chimney, Touch Control, Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "19,010.00",
+      "mrp": "25,490.00",
+      "discount": "25%(₹6,480)"
+    },
+    {
+      "name": "Faber Jupiter Plus HC SC BK 60 Kitchen Hood With Touch Control and Motion Sensor",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "18,870.00",
+      "mrp": "34,990.00",
+      "discount": "46%(₹16,120)"
+    },
+    {
+      "name": "Faber Premia 3D Plus IND HC SC BK 60 Chimney with AutoClean Technology & Gesture Control (Black)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "19,990.00",
+      "mrp": "31,990.00",
+      "discount": "38%(₹12,000)"
+    },
+    {
+      "name": "KAFF CASTO DHC 60 BK Chimney with Touch Control & LED Light (Black)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "17,490.00",
+      "mrp": "30,990.00",
+      "discount": "44%(₹13,500)"
+    },
+    {
+      "name": "Kaff Prima TX DHC 60 1180 Watts Kitchen Hood with Gesture Control",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "15,990.00",
+      "mrp": "26,490.00",
+      "discount": "40%(₹10,500)"
+    },
+    {
+      "name": "Preethi Alcor KH205 Kitchen Hood with Baffle Filter",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "15,990.00",
+      "mrp": "24,629.00",
+      "discount": "35%(₹8,639)"
+    },
+    {
+      "name": "Faber Zenith FL SC AC BK 90 Kitchen Hood (Black)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "27,299.00",
+      "mrp": "41,990.00",
+      "discount": "35%(₹14,691)"
+    },
+    {
+      "name": "Kaff ALBURY DHC 60 Auto Clean Wall Mounted Chimney (Black)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "23,990.00",
+      "mrp": "38,990.00",
+      "discount": "38%(₹15,000)"
+    },
+    {
+      "name": "Elica WDFL 606 HAC MS NERO Auto Clean Wall Mounted Chimney (Black)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "12,499.00",
+      "mrp": "23,990.00",
+      "discount": "48%(₹11,491)"
+    },
+    {
+      "name": "Elica WD TFL HAC 60 MS NERO Auto Clean Wall Mounted Chimney (Black)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "14,299.00",
+      "mrp": "26,990.00",
+      "discount": "47%(₹12,691)"
+    },
+    {
+      "name": "Faber ACE PRO HC PB 60 Auto-Clean Curved Glass Kitchen Chimney (Black)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "10,999.00",
+      "mrp": "18,990.00",
+      "discount": "42%(₹7,991)"
+    },
+    {
+      "name": "Faber Hood ACE PRO HC PB BK 90 Auto Clean Wall Mounted Chimney (Black)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "13,990.00",
+      "mrp": "22,990.00",
+      "discount": "39%(₹9,000)"
+    },
+    {
+      "name": "Elica WD HAC Touch BF 90 Kitchen Hood With 1200 m3/hr Suction power",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "11,499.00",
+      "mrp": "26,990.00",
+      "discount": "57%(₹15,491)"
+    },
+    {
+      "name": "Elica WD TBF HAC 60 MS N Kitchen Hood with 1425 m3/hour Suction power",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "13,499.00",
+      "mrp": "25,990.00",
+      "discount": "48%(₹12,491)"
+    },
+    {
+      "name": "Faber TOPAZ SMART 3D T2S2 BK TC LTW Kitchen Hood",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "15,930.00",
+      "mrp": "24,290.00",
+      "discount": "34%(₹8,360)"
+    },
+    {
+      "name": "Elica EFL-S601 HAC VMS Kitchen Hood",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "19,990.00",
+      "mrp": "34,990.00",
+      "discount": "43%(₹15,000)"
+    },
+    {
+      "name": "Elica Spot H4 Trim EDS HE LTW 60 Nero T4V LED Kitchen Hood",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "18,990.00",
+      "mrp": "37,990.00",
+      "discount": "50%(₹19,000)"
+    }
+  ],
+  "personal care": [
+    {
+      "name": "Havells HC4045 5 in 1 Multi Styling kit",
+      "img": "https://www.reliancedigital.in/medias/Havells-HC4045-Hair-Styler-491392036-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4MTU2fGltYWdlL2pwZWd8aW1hZ2VzL2gxMC9oMTYvOTI0OTI1NTE5NDY1NC5qcGd8YjhiZGZiMjBmZGI1Yjg1Mjk2YzQ1ODM4NzBhNmFiMjQ0MGZiNmQyZDAyZmE2MDAxOGUxOGEyNzI3NjdhNTJiMg",
+      "price": "2,180.00",
+      "mrp": "3,495.00",
+      "discount": "38%(₹1,315)"
+    },
+    {
+      "name": "Lifelong LLPCW20 Temperature Control Hair Straightener (Gold)",
+      "img": "https://www.reliancedigital.in/medias/Lifelong-LLPCW20-STYLER-492574757-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2MjAwM3xpbWFnZS9qcGVnfGltYWdlcy9oNDkvaDcyLzk3NTM5Mjc4MTExMDIuanBnfDk1NjA4OTA5OTRjNTRkMTc1MmU0Y2ViMDczMWYxYTc3OWM2OGI2N2M0M2JhZTlmYmJjNjZmZTU1YjkyZDU2MmY",
+      "price": "449.00",
+      "mrp": "1,500.00",
+      "discount": "70%(₹1,051)"
+    },
+    {
+      "name": "Reconnect Hair Dryer 1000W RP5303",
+      "img": "https://www.reliancedigital.in/medias/Reconnect-RP5303-Hair-Dryer-491538802-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNzE1M3xpbWFnZS9qcGVnfGltYWdlcy9oMmYvaGI0LzkzMjY5NDMzMzg1MjYuanBnfDdmMDhmZDVmYTI3OGFkMzk2MmM0MGUwOGVjMGJkZDUxY2NlZjkyOTlhOWViYjRlNjcxYzliZWUyMDRkZDI4OWE",
+      "price": "689.00",
+      "mrp": "999.00",
+      "discount": "31%(₹310)"
+    },
+    {
+      "name": "Philips HP8143/00 1000 Watt Hair Dryer (Pink)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "799.00",
+      "mrp": "1,095.00",
+      "discount": "27%(₹296)"
+    },
+    {
+      "name": "Vega VHDH-20 Hair Dryer",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "699.00",
+      "mrp": "899.00",
+      "discount": "22%(₹200)"
+    },
+    {
+      "name": "Panasonic EH-ND11 Hair Dryer",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "680.00",
+      "mrp": "780.00",
+      "discount": "13%(₹100)"
+    },
+    {
+      "name": "Philips Hair Dryer BHC010/10 1200 Watts Hair Dryer with 3 Flexible Pre-selected Settings",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,299.00",
+      "mrp": "1,495.00",
+      "discount": "13%(₹196)"
+    },
+    {
+      "name": "Philips BHS397-00 Straightener with KeraShine Titanium Plates, Purple",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,596.00",
+      "mrp": "2,495.00",
+      "discount": "36%(₹899)"
+    },
+    {
+      "name": "Philips BHH880 Hair Straightening Brush (Black)",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "3,499.00",
+      "mrp": "3,895.00",
+      "discount": "10%(₹396)"
+    },
+    {
+      "name": "Philips 3000 BHD318/10 1600 Watts Hair Dryer with 3 Heat and Speed Settings",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "2,099.00",
+      "mrp": "2,495.00",
+      "discount": "16%(₹396)"
+    },
+    {
+      "name": "Philips BHS393-00 Hair Straightener with SilkProtect Technology, Pink",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,499.00",
+      "mrp": "2,195.00",
+      "discount": "32%(₹696)"
+    },
+    {
+      "name": "Reconnect Hair Straightener RP5201",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "899.00",
+      "mrp": "1,599.00",
+      "discount": "44%(₹700)"
+    },
+    {
+      "name": "Wahl Easy Breezy Hair Dryer with 2 Heat Settings and Hanging Loop, WCHD4-1024",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "599.00",
+      "mrp": "1,000.00",
+      "discount": "40%(₹401)"
+    },
+    {
+      "name": "Wahl 1200 Watts Hair Dryer with 2 Heat Settings, Black, WCHD4-1124",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "799.00",
+      "mrp": "1,500.00",
+      "discount": "47%(₹701)"
+    },
+    {
+      "name": "BPL Hair Straightener with Ceramic Coated Heating Plates for even heating, Auto Thermo Protect, LED Indicator Light, 2 Years Warranty, Cherry Maroon",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "799.00",
+      "mrp": "1,199.00",
+      "discount": "33%(₹400)"
+    },
+    {
+      "name": "BPL Hair Straightener with Floating Ceramic Coated Heating Plates for even heating, Auto Thermo Protect, LED Indicator Light, 2 Years Warranty, Cherry Maroon, 2021",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "849.00",
+      "mrp": "1,199.00",
+      "discount": "29%(₹350)"
+    },
+    {
+      "name": "HAVELLS HC4085 1000 W Air Care Hair Styler Kit with 3 Temperature Setting, Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "2,799.00",
+      "mrp": "3,495.00",
+      "discount": "20%(₹696)"
+    },
+    {
+      "name": "Havells HC4040 5-In-1 Multi Styling Kit, Silver/Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "2,375.00",
+      "mrp": "3,495.00",
+      "discount": "32%(₹1,120)"
+    },
+    {
+      "name": "Vega Straightening Brush VHSB-01 Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,399.00",
+      "mrp": "1,999.00",
+      "discount": "30%(₹600)"
+    },
+    {
+      "name": "BPL 1200W Foldable Hair Dryer with 2 Heat Settings, Cool Shot Button, Thermo Protect technology for Overheat Protection, Detachable Concentrator, 2 Years Warranty, White & Pink",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "999.00",
+      "mrp": "1,399.00",
+      "discount": "29%(₹400)"
+    },
+    {
+      "name": "Philips 3000 BHD356/10 2100 Watts Hair Dryer with 6 Heat and Speed Settings",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "2,899.00",
+      "mrp": "3,495.00",
+      "discount": "17%(₹596)"
+    },
+    {
+      "name": "Havells HC4051 Hair Curler",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,965.00",
+      "mrp": "2,995.00",
+      "discount": "34%(₹1,030)"
+    },
+    {
+      "name": "Havells HC4030 Hair Straightener Brush",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,999.00",
+      "mrp": "2,495.00",
+      "discount": "20%(₹496)"
+    },
+    {
+      "name": "Philips BHS738-00 Hair Straigthener with Silk Protect Technology, Purple",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "2,475.00",
+      "mrp": "3,495.00",
+      "discount": "29%(₹1,020)"
+    }
+  ],
+  "accessories": [
+    {
+      "name": "Neopack Tablet Flip Case for 24.63 cm (9.7 inch) iPad, iPad Pro, Black FCBK97",
+      "img": "https://www.reliancedigital.in/medias/Neopack-FCBK97-Bags-Cases-491488276-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxODMxN3xpbWFnZS9qcGVnfGltYWdlcy9oOTIvaDE4LzkwNjcxMTQyOTk0MjIuanBnfGE0Njg1ZjYxOTM4YzdlMDk3ZjM1ZTczZjJmMzA2OWY4NTI3NzI0ZjUzMTBhM2U3MmNlNzgyMDViZjFmMTAzNzE",
+      "price": "2,499.00"
+    },
+    {
+      "name": "Inbase Carbon Mobile Case for iPhone XS, Gold 555",
+      "img": "https://www.reliancedigital.in/medias/In-Base-IB-555-Bags-and-Cases-491488071-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w5OTA3fGltYWdlL2pwZWd8aW1hZ2VzL2hkNi9oYWQvOTA3MjEyMjg1NTQ1NC5qcGd8NzBjMDdhY2NiOWY4YjhlMmU2YTc0YjM2NDc2OGVjMzhhNWQxM2NmMTQwMGMxNTRlMjRkNzkwMWY5NjQwYzhmOA",
+      "price": "344.00",
+      "mrp": "1,499.00",
+      "discount": "77%(₹1,155)"
+    },
+    {
+      "name": "Inbase Carbon Mobile Case for iPhone XS, Black",
+      "img": "https://www.reliancedigital.in/medias/In-Base-IB-553-Bags-and-Cases-491488069-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0OTgzfGltYWdlL2pwZWd8aW1hZ2VzL2gwNC9oOGEvOTA3MjEyMDEwMjk0Mi5qcGd8NDNkMTlkMTI3NDVhMzYwYTMzNTkzY2U2MjUzZDkyNThjZDIzZDJjOGRkZDU0NzJiMjUwZTdiZThhMGYwZDQyYw",
+      "price": "344.00",
+      "mrp": "1,499.00",
+      "discount": "77%(₹1,155)"
+    },
+    {
+      "name": "Neopack 8BK15 Laptop Bag for 35.81 cm (14.1 inch) & 39.11 cm (15.4 inch) Laptop, Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "2,499.00"
+    },
+    {
+      "name": "Neopack Silicon Mobile Case for iPhone XS Max, Sand Pink 42PNXMAX",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "999.00",
+      "mrp": "1,699.00",
+      "discount": "41%(₹700)"
+    },
+    {
+      "name": "ItSkins HybridMKII Mobile Case for iPhone XS Max, Black/Transparent",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "899.00",
+      "mrp": "1,499.00",
+      "discount": "40%(₹600)"
+    },
+    {
+      "name": "Neopack Laptop Sleeve for 39.62 cm (15.6 inch) Laptop, Black 3BK17",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,699.00"
+    },
+    {
+      "name": "Inbase Duplex Mobile Case for Vivo Y73, Blue IB-1408",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "299.00",
+      "mrp": "699.00",
+      "discount": "57%(₹400)"
+    },
+    {
+      "name": "Inbase Duplex Mobile Case for Vivo Y21, Blue IB-1404",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "299.00",
+      "mrp": "699.00",
+      "discount": "57%(₹400)"
+    },
+    {
+      "name": "Inbase IB-1256 Ultra Hybrid Series Mobile Case for iPhone 13, Blue",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "799.00",
+      "mrp": "1,499.00",
+      "discount": "47%(₹700)"
+    },
+    {
+      "name": "Inbase IB-1257 Ultra Hybrid Series Mobile Case for iPhone 13, Clear",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "799.00",
+      "mrp": "1,499.00",
+      "discount": "47%(₹700)"
+    },
+    {
+      "name": "Inbase IB-1255 Ultra Hybrid Series Mobile Case for iPhone 13, Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "799.00",
+      "mrp": "1,499.00",
+      "discount": "47%(₹700)"
+    },
+    {
+      "name": "Inbase IB-1251 Cosmos Frosted Series Mobile Case for iPhone 13 Pro, Clear",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "699.00",
+      "mrp": "1,299.00",
+      "discount": "46%(₹600)"
+    },
+    {
+      "name": "Inbase IB-1249 Cosmos Frosted Series Mobile Case for iPhone13 Mini, Clear",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "699.00",
+      "mrp": "1,299.00",
+      "discount": "46%(₹600)"
+    },
+    {
+      "name": "Inbase IB-1247 Cosmos Frosted Series Mobile Case for iPhone 13, Clear",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "699.00",
+      "mrp": "1,299.00",
+      "discount": "46%(₹600)"
+    },
+    {
+      "name": "Inbase IB-1199 Xtreme Tough Mobile Case for iPhone 13 Pro, Blue",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,299.00",
+      "mrp": "1,599.00",
+      "discount": "19%(₹300)"
+    },
+    {
+      "name": "Inbase IB-1192 Xtreme Tough Mobile Case for iPhone 13, Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "1,299.00",
+      "mrp": "1,599.00",
+      "discount": "19%(₹300)"
+    },
+    {
+      "name": "Inbase IB-1264 Ultra Hybrid Mobile Case for iPhone 13 Pro Max, Black",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "799.00",
+      "mrp": "1,499.00",
+      "discount": "47%(₹700)"
+    },
+    {
+      "name": "Inbase Duplex Mobile Case for Samsung M11, Black IB-1393",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "299.00",
+      "mrp": "699.00",
+      "discount": "57%(₹400)"
+    },
+    {
+      "name": "Inbase UltraSlim Mobile Case for OnePlus Nord, Black IB-001",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "799.00",
+      "mrp": "999.00",
+      "discount": "20%(₹200)"
+    },
+    {
+      "name": "Inbase Duplex Mobile Case for Oppo A54, Blue IB-1388",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "299.00",
+      "mrp": "699.00",
+      "discount": "57%(₹400)"
+    },
+    {
+      "name": "Inbase Duplex Mobile Case for OnePlus 9R, Blue IB-1384",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "299.00",
+      "mrp": "699.00",
+      "discount": "57%(₹400)"
+    },
+    {
+      "name": "Inbase Duplex Mobile Case for Oppo A53, Red IB-1435",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "299.00",
+      "mrp": "699.00",
+      "discount": "57%(₹400)"
+    },
+    {
+      "name": "Inbase Duplex Mobile Case for Vivo V21, Blue IB-1426",
+      "img": "https://www.reliancedigital.in/build/client/images/loaders/mdefault.png",
+      "price": "299.00",
+      "mrp": "699.00",
+      "discount": "57%(₹400)"
+    }
+  ],
+  "cart": [],
+  "whishlist": [],
+  "orders": []
 }
