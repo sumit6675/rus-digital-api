@@ -1690,30 +1690,7 @@
   ],
   "cart": [],
   "whishlist": [
-    {
-    "name": "LG 32 litres Convection Microwave Oven, MC3286BRUM",
-    "img": "https://www.reliancedigital.in/medias/581108139-Package-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2NDI0OHxpbWFnZS9qcGVnfGltYWdlcy9oZjQvaDJmLzg5NjM4NDQ4OTg4NDYuanBnfDljZDk0MDcwYmFhNzQ1NjhlOTFiNzk3NjUyYmI3MzExZTU4NzA0MzYxMGRiMzg2ZmExN2RjMGZmMWJiMGIwM2Q",
-    "mrp": "23,999.00",
-    "price": "17,140.00",
-    "discount": "29%(₹6,859)",
-    "id": 1
-  },
-  {
-    "name": "LG 28 litres Convection Microwave Oven, MC2846BV",
-    "img": "https://www.reliancedigital.in/medias/LG-MC2846BV-Microwave-Ovens-581107300-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzODIzM3xpbWFnZS9qcGVnfGltYWdlcy9oOTkvaDFiLzk4MDU4NTQxNDY1OTAuanBnfDVlYWMxYTY5Nzk2OTkyYTcxZGEwOTVmY2FiYmQ0YmFmYTYwOGFmZTM0OGRjYjdjZTJlMGMxY2Q3MWY2ZGVjODc",
-    "mrp": "16,999.00",
-    "price": "15,990.00",
-    "discount": "6%(₹1,009)",
-    "id": 2
-  },
-  {
-    "name": "IFB 30 litres Rotisserie Convection Microwave Oven, 30BRC2",
-    "img": "https://www.reliancedigital.in/medias/IFB-30BRC2-Microwave-Ovens-491391947-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzODQ1OHxpbWFnZS9qcGVnfGltYWdlcy9oOTMvaGU4LzkwMTg4Nzk0NzU3NDIuanBnfDgxZGIxNGNlNGNkMDJkZDljMmU0ZTE5NGYxYmMzMDU1NzU0OTdlODg0Njc0NzdjMmY5YWJhNDZiNzQ5ZDAxMjQ",
-    "mrp": "20,390.00",
-    "price": "15,990.00",
-    "discount": "22%(₹4,400)",
-    "id": 3
-  }
+   
   ],
   "orders": []
 }
